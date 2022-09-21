@@ -1,0 +1,8 @@
+C:\Users\KIA CORALINE\source\repos\ColeringGraph\ColeringGraph\obj\Debug\ColeringGraph.csproj.AssemblyReference.cache
+C:\Users\KIA CORALINE\source\repos\ColeringGraph\ColeringGraph\obj\Debug\ColeringGraph.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIA CORALINE\source\repos\ColeringGraph\ColeringGraph\obj\Debug\ColeringGraph.csproj.CoreCompileInputs.cache
+C:\Users\KIA CORALINE\source\repos\ColeringGraph\ColeringGraph\bin\Debug\ColeringGraph.exe.config
+C:\Users\KIA CORALINE\source\repos\ColeringGraph\ColeringGraph\bin\Debug\ColeringGraph.exe
+C:\Users\KIA CORALINE\source\repos\ColeringGraph\ColeringGraph\bin\Debug\ColeringGraph.pdb
+C:\Users\KIA CORALINE\source\repos\ColeringGraph\ColeringGraph\obj\Debug\ColeringGraph.exe
+C:\Users\KIA CORALINE\source\repos\ColeringGraph\ColeringGraph\obj\Debug\ColeringGraph.pdb
